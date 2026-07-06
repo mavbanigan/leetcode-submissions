@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mavbanigan/leetcode-submissions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mavbanigan/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/mavbanigan/leetcode-submissions/tree/master/0242-valid-anagram) |
+| [3138-minimum-length-of-anagram-concatenation](https://github.com/mavbanigan/leetcode-submissions/tree/master/3138-minimum-length-of-anagram-concatenation) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mavbanigan/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/mavbanigan/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mavbanigan/leetcode-submissions/tree/master/0344-reverse-string) |
+| [3138-minimum-length-of-anagram-concatenation](https://github.com/mavbanigan/leetcode-submissions/tree/master/3138-minimum-length-of-anagram-concatenation) |
 ## Sliding Window
 |  |
 | ------- |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/mavbanigan/leetcode-submissions/tree/master/0242-valid-anagram) |
+## Counting
+|  |
+| ------- |
+| [3138-minimum-length-of-anagram-concatenation](https://github.com/mavbanigan/leetcode-submissions/tree/master/3138-minimum-length-of-anagram-concatenation) |
 <!---LeetCode Topics End-->
