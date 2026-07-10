@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mavbanigan/leetcode-submissions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/mavbanigan/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/mavbanigan/leetcode-submissions/tree/master/0036-valid-sudoku) |
+| [0219-contains-duplicate-ii](https://github.com/mavbanigan/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0493-reverse-pairs](https://github.com/mavbanigan/leetcode-submissions/tree/master/0493-reverse-pairs) |
 ## Hash Table
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mavbanigan/leetcode-submissions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mavbanigan/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/mavbanigan/leetcode-submissions/tree/master/0036-valid-sudoku) |
+| [0219-contains-duplicate-ii](https://github.com/mavbanigan/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/mavbanigan/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/mavbanigan/leetcode-submissions/tree/master/3138-minimum-length-of-anagram-concatenation) |
 ## String
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mavbanigan/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/mavbanigan/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 ## Math
 |  |
 | ------- |
