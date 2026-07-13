@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mavbanigan/leetcode-submissions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/mavbanigan/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/mavbanigan/leetcode-submissions/tree/master/0036-valid-sudoku) |
+| [0075-sort-colors](https://github.com/mavbanigan/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/mavbanigan/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0493-reverse-pairs](https://github.com/mavbanigan/leetcode-submissions/tree/master/0493-reverse-pairs) |
 ## Hash Table
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mavbanigan/leetcode-submissions/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/mavbanigan/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/mavbanigan/leetcode-submissions/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mavbanigan/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/mavbanigan/leetcode-submissions/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
