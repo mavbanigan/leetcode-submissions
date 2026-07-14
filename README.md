@@ -104,4 +104,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/mavbanigan/leetcode-submissions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/mavbanigan/leetcode-submissions/tree/master/0231-power-of-two) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/mavbanigan/leetcode-submissions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/mavbanigan/leetcode-submissions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/mavbanigan/leetcode-submissions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/mavbanigan/leetcode-submissions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
