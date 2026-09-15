@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/mavbanigan/leetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0075-sort-colors](https://github.com/mavbanigan/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/mavbanigan/leetcode-submissions/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mavbanigan/leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/mavbanigan/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mavbanigan/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0493-reverse-pairs](https://github.com/mavbanigan/leetcode-submissions/tree/master/0493-reverse-pairs) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/mavbanigan/leetcode-submissions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mavbanigan/leetcode-submissions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/mavbanigan/leetcode-submissions/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mavbanigan/leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/mavbanigan/leetcode-submissions/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mavbanigan/leetcode-submissions/tree/master/0100-same-tree) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mavbanigan/leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
